@@ -1,2 +1,2 @@
 #!/bin/bash
-
+tall =s =2 | cut -f -1 | sort =k : | uniq =c
